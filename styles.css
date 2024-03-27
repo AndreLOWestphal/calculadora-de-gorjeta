@@ -3,6 +3,10 @@ html {
     font-size: 10px;
     color: #4e4d4d;
   }
+
+  body{
+    background: #000;
+  }
   
   main {
     max-width: 50rem;
